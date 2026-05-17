@@ -63,13 +63,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurbalaji&show_icons=true&theme=radical&hide_border=true" alt="Arthur's GitHub Stats" />
-</div>
-
----
 
 ### 📫 Let's Connect!
 
